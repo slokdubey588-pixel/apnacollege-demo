@@ -1,2 +1,3 @@
 # apnacollege-demo
-it is my first project in git repository
+it is my first git repository
+author- slok dubey
